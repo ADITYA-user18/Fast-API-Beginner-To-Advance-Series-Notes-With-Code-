@@ -60,7 +60,7 @@ print("Verified HDFC User:", customer1)
 invalid_user = {
     "name": "Rahul",
     "age": 25,
-    "email": "rahul@gmail.com"
+    "email": "rahul@ghdfcmail.com"
 }
 
 try:
